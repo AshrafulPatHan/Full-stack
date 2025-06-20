@@ -9,6 +9,7 @@ export default function Home() {
       <Link href='/read' className="hover:underline text-2xl ">Read</Link>
       <Link href='/put' className="hover:underline text-2xl ">Put</Link>
       <Link href='/delete' className="hover:underline text-2xl ">Delete</Link>
+      <Link href='/chat' className="hover:underline text-2xl ">Test All in one</Link>
     </div>
   );
 }
